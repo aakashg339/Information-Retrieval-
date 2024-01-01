@@ -1,0 +1,3 @@
+python Assignment2_23CS60R22_ranker.py cran.all.1400 cran.qry model_queries_23CS60R22.bin
+
+python Assignment2_23CS60R22_evaluator.py cranqrel Assignment2_23CS60R22_ranked_list_A.txt

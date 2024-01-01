@@ -1,0 +1,225 @@
+1	similarity law must obeyed constructing aeroelastic model heated high speed aircraft
+2	structural aeroelastic problem associated flight high speed aircraft
+4	problem heat conduction composite slab solved far
+8	criterion developed show empirically validity flow solution chemically reacting gas mixture based simplifying assumption instantaneous local chemical equilibrium
+9	chemical kinetic system applicable hypersonic aerodynamic problem
+10	theoretical experimental guide turbulent couette flow behaviour
+12	possible relate available pressure distribution ogive forebody zero angle attack lower surface pressure equivalent ogive forebody angle attack
+13	method -dash exact approximate -dash presently available predicting body pressure angle attack
+15	paper internal /slip flow/ heat transfer study
+18	real-gas transport property air available wide range enthalpy density
+22	possible find analytical similar solution strong blast wave problem newtonian approximation
+23	aerodynamic performance channel flow ground effect machine calculated
+26	basic mechanism transonic aileron buzz
+27	paper shock-sound wave interaction
+29	material property photoelastic material
+31	transverse potential flow body revolution calculated efficiently electronic computer
+32	three-dimensional problem transverse potential flow body revolution reduced two-dimensional problem
+33	experimental pressure distribution body revolution angle attack available
+34	exist good basic treatment dynamic re-entry combining consideration realistic effect relative simplicity result
+35	anyone formally determined influence joule heating produced induced current magnetohydrodynamic free convection flow general condition
+39	compressibility transformation fail correlate high speed data helium air
+40	anyone else discover turbulent skin friction sensitive nature variation viscosity temperature
+41	progress made research unsteady aerodynamics
+49	factor influence time required invert large structural matrix
+50	practical flow follow theoretical concept interaction adjacent blade row supersonic cascade
+51	single approximate formula displacement thickness laminar boundary layer compressible flow flat plate
+52	design ring part ring wing linear theory affected thickness
+53	application linear theory design curved wing
+54	effect cross sectional shape flow simple delta wing sharp leading edge
+55	paper flow visualization slender conical wing
+56	size end plate safely used simulate two-dimensional flow condition bluff cylindrical body finite aspect ratio
+57	find approximate correction thickness slender thin-wing theory
+58	interference-free longitudinal stability measurement made using free-flight model compare similar measurement made low-blockage wind tunnel
+59	wind tunnel interference effect investigated systematic basis
+61	paper dealing acoustic wave propagation reacting gas
+62	anyone investigated relaxation effect gaseous heat transfer suddenly heated wall
+66	theoretical method predicting base pressure
+67	transition hypersonic wake depend body geometry size
+68	one detect transition phenomenon boundary layer
+69	one detect transition phenomenon hypersonic wake
+71	anyone investigated developed simple model vortex wake behind cruciform wing
+72	criterion transonic flow around airfoil round leading edge validly analyzed linearized transonic flow theory
+74	transonic flow around arbitrary smooth thin airfoil analysed simple approximate way
+79	detail rigorous kinetic theory gas chapman-enskog theory
+80	anyone investigated effect surface mass transfer hypersonic viscous interaction
+81	combined effect surface heat mass transfer hypersonic flow
+82	existing solution hypersonic viscous interaction insulated flat plate
+83	control leading-edge attachment transonic speed
+84	three-point boundary-value problem blasius equation integrated numerically using suitable transformation without iteration boundary condition
+85	effect small amount gas rarefaction characteristic boundary layer slender body revolution
+86	available information pertaining boundary layer slender body revolution continuum flow transverse curvature effect
+87	available information pertaining effect slight rarefaction boundary layer flow slip effect
+93	investigation made flow field body moving rarefied partially ionized gas presence magnetic field
+94	heat transfer downstream mass transfer region effected mass transfer nose blunted cone
+95	extent available information incompressible boundary layer applied problem involving compressible boundary layer
+97	extent readily available steady-state aerodynamic data utilized predict lifting-surface flutter characteristic
+98	significant steady non-steady flow characteristic affect flutter mechanism
+99	possible determine rate forced convective heat transfer heated cylinder non-circular cross-section fluid flow along generator
+100	much known boundary layer flow along non-circular cylinder
+101	simple practical method numerical integration mixing problem i.e blasius problem three-point boundary condition
+102	exist closed-form expression local heat transfer around yawed cylinder
+103	far around cylinder condition flow velocity outside boundary layer linear function distance around cylinder
+104	find pressure data surface swept cylinder
+105	ca n't static deflection shape used predicting flutter place vibrational shape provide justification mean example
+106	boundary layer flat plate shear flow induce pressure gradient
+107	procedure matching inner outer solution viscous flow problem applied main stream shear flow
+108	series expansion found boundary layer flat plate shear flow
+109	possible technique available computing injection distribution corresponding isothermal transpiration cooled hemisphere
+110	known regarding asymptotic solution exact boundary layer equation
+111	previous solution boundary layer similarity equation
+112	experimental result hypersonic viscous interaction
+113	done viscous interaction relatively low reynolds number flow particularly high mach number
+114	role effect chemical reaction particularly equilibrium play similitude law governing hypersonic flow slender aerodynamic body
+116	significant possible pressure dissociated free stream respect realization hypersonic simulation high enthalpy wind tunnel
+118	discrepancy among current analysis vorticity effect stagnation-point heat transfer result primarily difference viscosity-temperature law assumed
+119	far one trust linear viscosity-temperature solution assumed analysis hypersonic shock layer low reynolds number
+120	close comparison shock layer theory existing experiment low reynolds number merged-layer regime
+121	anyone explained kink surge line multi-stage axial compressor
+122	aerodynamic derivative measured hypersonic mach number comparison made theoretical work
+123	method measuring aerodynamic derivative available could adopted use short running time facility
+126	wind-tunnel correction two-dimensional aerofoil mounted off-centre tunnel
+128	kuchemann 's multhopp 's method calculating lift distribution swept wing subsonic flow compare experiment
+130	present state theory quasi-conical flow
+131	reference method available accurately estimating aerodynamic heat transfer conical body laminar turbulent flow
+132	parameter seriously influence natural transition laminar turbulent flow model wind tunnel
+133	satisfactory experimental technique developed measuring oscillatory derivative slender sting-mounted model supersonic wind tunnel
+135	effect boundary layer modifying basic inviscid flow behind shock neglecting effect leading edge corner
+136	satellite orbit contract action air drag atmosphere scale height varies altitude
+137	flow transonic speed delta wing different closely-related tapered sweptback wing
+138	recent data shock-induced boundary-layer separation
+139	interference effect likely transonic speed
+140	given complete freedom design airplane procedure would used order minimize sonic boom intensity limit degree minimizing accomplished
+141	methane-air combustion product used hypersonic test medium predict within experimental accuracy result obtained air
+142	theoretical heat transfer rate stagnation point blunt body
+143	theoretical heat transfer distribution around hemisphere
+145	anyone investigated unsteady lift distribution finite wing subsonic flow
+146	information available dynamic response airplane gust blast subsonic regime
+147	forward apex located control effective low subsonic speed compare conventional trailing-edge flap
+148	given uncontrolled vehicle tumble enters atmosphere possible predict stop tumbling subsequent motion
+149	effect initial imperfection elastic buckling cylindrical shell axial compression
+150	incremental theory deformation theory plastic stress-strain relationship differ greatly applied stability problem
+152	basic dynamic characteristic structure continuous many span
+153	information buckling sandwich sphere available
+154	load deformation characteristic beam obtained material inelastic non uniform temperature present
+155	effect internal liquid column breathing vibration cylindrical shell
+156	experimental technique shell vibration
+157	summarizing theoretical experimental work behaviour typical aircraft structure noise environment possible develop design procedure
+158	data fatigue structure acoustic loading
+160	panel subjected aerodynamic heating
+161	increasing edge loading plate beyond critical value buckling change buckling mode
+163	effect elastic edge restraint considered previous paper panel flutter
+164	solution clamped plate problem classical theory bending reduced two successive membrane boundary value problem
+165	data exists oscillatory aerodynamic force control surface transonic mach number
+167	likely airforce wing general planform oscillating transonic flow determined purely analytical method possible determine airforce single particular planform rectangular one method
+168	problem similarity representative investigation aeroelastic effect heated flow intractable previous investigation imply
+169	magnitude distribution lift cone cylindrical portion cone-cylinder configuration
+170	information addition /boat-tail/ affect normal force body various angle incidence
+171	aerodynamic interference effect fin lift body lift fin-body combination
+173	effect initial axisymmetric deviation circularity non linear large-deflection load-deflection response cylinder hydrostatic pressure
+175	previous analysis circumferential thermal buckling circular cylindrical shell unnecessarily involved even inaccurate due assumed form buckling mode
+176	paper dealing circumferential buckling either thermal buckling due mechanical loading
+177	analytical investigation made stability conical shell result compare experiment
+181	work done determining nature compressible viscous flow straight channel
+182	area low density wind tunnel flow viscous compressible flow slender channel problem analytical investigation made stability conical shell result compare experiment
+183	jet interference supersonic flow -dash experimental paper
+184	thrust vector control fluid injection -dash paper
+187	possible obtain reasonably simple analytical solution heat equation exponential time heat input
+189	anyone programmed pump design method high-speed digital computer
+190	anyone derived simplified pump design equation fundamental three-dimensional equation incompressible nonviscous flow
+196	flutter characteristic exposed skin panel x-15 vertical stabilizer subjected aerodynamic heating
+200	agreement found theoretically predicted instability time experimentally measured collapse time compressed column creep
+201	theoretical study creep buckling
+202	experimental study creep buckling
+203	possible correlate result creep buckling widely different structure within framework single theory
+204	experimental result creep buckling column
+205	result creep buckling round tube external pressure
+206	analytical study conducted time-to-failure mechanism associated creep collapse long circular cylindrical shell exhibit primary secondary creep well elastic deformation various distributed force system
+208	effect initial stress frequency vibration circular cylindrical shell investigated
+209	effect change initial pressure due deformation frequency vibration circular cylindrical shell investigated
+210	discontinuity stress junction pressurized structure
+211	analytical solution available stress edge-loaded shell revolution
+212	dome contour minimize discontinuity stress used closure cylindrical pressure vessel
+213	general solution stress pressurized shell revolution available
+214	study pure membrane cylinder wall bending stiffness maintaining shape virtue internal pressure provide insight behaviour pressurized cylinder finite wall stiffness
+215	best experimental data classical small deflection theory analysis available pressurized cylinder bending
+216	membrane theory exist behaviour pressurized membrane cylinder bending predicted
+217	equation define stability simply supported corrugated core sandwich cylinder
+218	paper small deflection theory buckling sandwich cylinder
+219	anyone developed analysis accurately establishes large deflection behaviour conical shell
+223	magnitude second-order wing-body interference high supersonic mach number
+224	best theoretical method calculating pressure surface wing alone
+225	effect boundary-layer wing pressure calculated magnitude
+226	navier-stokes difference equation solved
+227	iterative method solving linear elliptic difference equation rapidly convergent
+230	technical report measurement ablation flight
+231	qualitative quantitative material available ablation material research
+232	flow field calculated blunt-nosed body compared experiment wide range free stream condition body shape
+233	available property high-temperature air
+234	magnitude aerodynamic damping flexible vibration mode slender body revolution characteristic launch vehicle
+241	compressive circumferential stress torispherical shell reveal possibility buckling internal pressure anyone investigated range shell parameter stress sufficiently large cause elastic buckling
+245	integral method give single sufficiently accurate method calculating laminar separate point various incompressible compressible boundary layer zero heat transfer
+246	accurate exact solution laminar separation point various incompressible compressible boundary layer zero heat transfer available
+247	hypersonic similarity result applied technique predicting surface pressure ogive forebody angle attack
+250	determines onset shock-induced boundary-layer separation
+251	stable profile compressible boundary layer induced moving wave known
+252	experimental result stability compressible boundary layer induced moving wave
+253	exact solution method calculating ablative mass loss material ablating high temperature hypersonic flight environment
+254	approximate solution known direct problem transonic flow throat nozzle i.e finding flow given nozzle
+255	approximate solution known indirect problem transonic flow throat nozzle i.e finding nozzle given axial velocity distribution
+257	user orthodox pitot-static tube often find calibration appear significantly different formerly specified b wildly variable low reynolds number
+259	comparison made interference-free drag measurement using free-flight model similar measurement made low-blockage wind tunnel
+261	solution blasius problem three-point boundary condition
+264	reference lyapunov 's method stability linear differential equation periodic coefficient
+265	obtain paper report contain shock detachment distance data
+266	work flow channel low reynolds number
+267	approximate analytical heat conduction solution using method biot 's principle
+268	mode stalling expected stage axial compressor
+269	criterion established determining axial compressor choking line
+272	theory quasi-conical flow developed supersonic linearised theory upwash distribution lifting surface apart homogeneous function co-ordinate permitted quite general functional form
+273	scale height vary altitude atmosphere
+274	jet interference supersonic flow theoretical paper
+275	effect leading-edge bluntness flutter characteristic square-planform double-wedge airfoil mach number le 15.4
+277	factor shown primary influence sonic boom strength
+283	work small-oscillation re-entry motion
+284	experimental study panel flutter
+285	wing-body flow field interference effect approximated rationally
+288	anyone analytically experimentally investigated effect internal pressure buckling circular-cylindrical shell bending
+291	theoretical experimental work done excitation response typical structure noise environment
+292	design method calculating thermal fatigue endurance component various type size variety circumstance
+293	analysis panel flutter based arbitrarily assumed mode deformation prove satisfactory minimum number mode need considered
+294	criterion true panel flutter opposed small amplitude vibration arising acoustic disturbance
+295	paper dealing uniformly loaded sector
+296	general method solving clamped plate problem
+297	analytical solution buckling strength uniform circular cylinder loaded axial compression refined lower buckling load
+298	problem buckling strength uniform circular cylinder loaded axial compression linear solution help improving non-linear one
+299	problem similarity representative investigation aeroelastic effect flow absence heating effect
+300	fatigue damage estimated using normal long-hand method
+301	information available difference effect various edge condition buckling cylindrical shell
+303	non-linear large deflection analysis conducted shell shape conical
+304	asymptotic method sufficiently accurate determination pre-buckling stress torispherical shell must resort numerical method
+306	nonequilibrium chemical constituent viscous shock layer ahead blunt re-entry vehicle
+314	accurate existing analytical theory estimating pressure distribution cone incidence hypersonic speed
+315	simple empirical method use estimating pressure distribution cone
+316	viscous effect seriously modify pressure distribution
+317	anyone investigated theoretically whether surface flexibility stabilize laminar boundary layer
+321	subsonic transonic flutter data measured new langley transonic dynamic tunnel compare similar data obtained facility
+323	large change new mass ratio quantitatively affect wing-flutter boundary
+327	effect shape drag polar lifting spacecraft amount reduction maximum deceleration obtainable continuously varying aerodynamic coefficient re-entry
+331	physical significance characteristic separated laminar turbulent boundary layer flow
+332	anyone analytically investigated stabilizing influence soft elastic core buckling strength cylindrical shell subjected non-uniform external pressure
+333	paper available buckling empty cylindrical shell non-uniform pressure
+335	effect thermal stress compressive buckling strength ring-stiffened cylinder
+336	effect cylinder buckling circumferential stress system varies axial direction
+338	non-linear shallow shell analysis reduced engineering technique use matrix
+339	possible predict shape shroud allow simulation nose region flow field sphere hypersonic flow
+340	investigation made wave system created static pressure distribution liquid surface
+347	anyone investigated effect shock generated vorticity heat transfer blunt body
+348	heat transfer blunt body absence vorticity
+349	general effect flow field reynolds number small
+352	find calculation procedure applicable incompressible laminar boundary layer flow problem good accuracy reasonable computation time
+353	paper applicable problem calculation procedure laminar incompressible flow arbitrary pressure gradient
+355	anyone investigated shear buckling stiffened plate
+356	paper shear buckling unstiffened rectangular plate shear
+360	practice close reality assumption flow hypersonic shock tube using nitrogen non-viscous thermodynamic equilibrium
+365	design factor used control lift-drag ratio mach number 5
